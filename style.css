@@ -141,7 +141,9 @@
             border-radius: var(--border-radius) 0 0 var(--border-radius);
             font-family: 'Nunito', sans-serif;
         }
-
+       .dropdown li a{
+            color: #ffdd00;
+        }
         .search-bar button {
             background-color: var(--primary-red);
             color: var(--white);
@@ -826,4 +828,5 @@
                 width: 100%;
             }
         }
+
     
